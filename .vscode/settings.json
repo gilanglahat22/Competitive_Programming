@@ -11,6 +11,14 @@
         "utility": "cpp",
         "valarray": "cpp",
         "ostream": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "stacktrace": "cpp"
     }
 }
